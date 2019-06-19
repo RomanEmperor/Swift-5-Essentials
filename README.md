@@ -1,5 +1,5 @@
 # Swift-5-Essentials
-This repository contains essentials informations regarding swift programming language version 5
+This repository contains essential information regarding swift programming language version 5.0
 
 Use Xcode Playground to open the files and get ideas about swift programming essentials and their operations.
 
