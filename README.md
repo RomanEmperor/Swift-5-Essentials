@@ -19,4 +19,5 @@ Chapter 2 : Variables and Basics
             > Booleans and Logical operators
             > Optionals Basic Introduction
 
-If Statements Essentials
+<> If Statements Essentials
+<> Safe Practice to unwrap optionals ? with optional bindings
