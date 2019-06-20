@@ -18,3 +18,5 @@ Chapter 2 : Variables and Basics
             > Type Conversion
             > Booleans and Logical operators
             > Optionals Basic Introduction
+
+If Statements Essentials
