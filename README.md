@@ -25,3 +25,6 @@ Chapter 4 Application Control Flow
 4.1 If Statements Essentials
 4.2 Safe Practice to unwrap optionals ? with optional bindings
 
+Chapter 5: Functions
+5.1 Basics of Functions
+5.2 Function Types
